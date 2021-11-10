@@ -1,3 +1,5 @@
+https://www.figma.com/file/MOlhG4R9BQMlNjiFRG8Keo/Original.io-frontend-test?node-id=0%3A1
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app), using the [Redux](https://redux.js.org/) and [Redux Toolkit](https://redux-toolkit.js.org/) template.
 
 ## Available Scripts
